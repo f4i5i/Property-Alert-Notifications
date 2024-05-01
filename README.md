@@ -1,4 +1,4 @@
-# Property Alert Notifications Microservice
+# Property Alert Notifications
 
 ## Overview
 
@@ -38,7 +38,7 @@ To start the FastAPI application using `uvicorn`, follow these steps:
    Open a terminal and ensure you are in the root directory of your project. Navigate using the command:
 
    ```bash
-   cd Property-Alert-Notifications-Microservice/
+   cd Property-Alert-Notifications/
 
 1. **Start the Application:**
    Execute the application with the uvicorn command. Include the --reload option to enable automatic reloading during development:
